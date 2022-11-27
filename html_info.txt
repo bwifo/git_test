@@ -13,4 +13,9 @@ video = https://www.youtube.com/watch?v=LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZRv
 KEY TAGS:
 
 <!DOCTYPE html> // tells web server that we are using latest version of html
-<html> //
+<html> // tells browser that the html starts and ends here 
+<head> // this is the header 
+<body> // main content of the page
+<title> // goes in head, is the title of the page
+<meta> // in head; saves extra info about header of the page
+    - <meta charset="utf-8> // tells browser the charactr set we are using, THIS IS NEEDED
