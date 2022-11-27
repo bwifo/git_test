@@ -9,3 +9,8 @@ video = https://www.youtube.com/watch?v=LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZRv
         </gift>
     </box>
 </wrapping paper>
+
+KEY TAGS:
+
+<!DOCTYPE html> // tells web server that we are using latest version of html
+<html> //
